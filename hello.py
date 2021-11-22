@@ -30,3 +30,11 @@ else:
 
 tuple = (a,b,1.2,'string');
 print(tuple);
+
+#mutable data types : Lists , Dictionaries and Sets 
+
+lists = [a, b, c, 24.23, 'sid'];
+print(lists);
+print(lists[2]);
+
+dict = {'name' : 'sid' , 'age' : '22' , 'gender' : 'male'}
