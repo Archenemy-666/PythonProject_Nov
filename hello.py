@@ -38,3 +38,6 @@ print(lists);
 print(lists[2]);
 
 dict = {'name' : 'sid' , 'age' : '22' , 'gender' : 'male'}
+for i in dict:
+	if(i.key() == 'name'):
+		print(i);
