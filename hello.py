@@ -26,4 +26,7 @@ else:
 
 	print("c is greater");
 
-#loops 
+# tuples 
+
+tuple = (a,b,1.2,'string');
+print(tuple);
